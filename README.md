@@ -24,4 +24,4 @@ From command line navigate to your application's directory and use:
 ```
 python main.py --File statement_masked.pdf --Output transcation_table.csv
 ```
-![Screenshot](output.png)
+![Screenshot](output.PNG)
