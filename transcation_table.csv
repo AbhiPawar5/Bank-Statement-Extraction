@@ -1,0 +1,13 @@
+Date,Amount,Description,Reference_Number,Transcation_Type,Balance
+09/11/2020,724.00 (Cr),Remark for transcation #1,S59192340,Credit,10193.59
+09/11/2020,1517.00 (Dr),Remark for transcation #2,S58499734,Debit,9469.59
+03/11/2020,210.00 (Dr),Remark for transcation #3,S16099989,Debit,10986.59
+31/10/2020,273.00 (Cr),Remark for transcation #4,S93829104,Credit,11196.59
+29/10/2020,307.79 (Cr),Remark for transcation #5,S82351194,Credit,10923.59
+26/10/2020,5.00 (Cr),Remark for transcation #6,S63512645,Credit,10615.8
+24/10/2020,21.00 (Dr),Remark for transcation #7,S61221901,Debit,10610.8
+16/10/2020,30.00 (Dr),Remark for transcation #8,S7170673,Debit,10631.8
+13/10/2020,106.57 (Cr),Remark for transcation #9,S85248903,Credit,10661.8
+10/10/2020,300.00 (Dr),Remark for transcation #10,S72095186,Debit,10555.23
+06/10/2020,1000.00 (Cr),Remark for transcation #11,S40948386,Credit,10855.23
+06/10/2020,210.00 (Dr),Remark for transcation #12,S40533962,Debit,9855.23
